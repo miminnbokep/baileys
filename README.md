@@ -11,12 +11,12 @@ The original repository was initially removed by its creator and subsequently ta
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "wansky05/nstarbaileys"
+    "baileys": "miminnbokep/baileys"
 }
 ```
 or install in terminal:
 ```
-npm install baileys@github:wansky05/nstarbaileys
+npm install baileys@github:miminnbokep/baileys
 ```
 
 Then import the default function in your code:
